@@ -17,7 +17,7 @@ Include alternative index (WTI, GLD… other?)
 
 Team Members
 
-Susan Bengo
-Michael Cody
-TJ Wentling
-Tingjun Yang
+Susan Bengo  <br>
+Michael Cody <br>
+TJ Wentling <br>
+Tingjun Yang <br>
