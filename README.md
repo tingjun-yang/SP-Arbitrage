@@ -9,7 +9,7 @@ How strong of a correlation will we find? Do different time periods matter? <br>
 
 Define Emini and Micro-Emini (MES) contract specifications <br>
 Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
-Define SPY etf <br>
+Define SPY ETF <br>
 Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
 Date Range: May 2019 - May 2023 <br>
 Economic News: GDP data, Employment, Fed,  <br>
