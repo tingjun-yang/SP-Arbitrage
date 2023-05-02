@@ -8,6 +8,8 @@ How strong of a correlation will we find? Do different time periods matter? <br>
 # ***Description:***
 
 Define Emini and Micro-Emini (MES) contract specifications <br>
+The E-mini S&P 500 futures contract tracks the S&P 500 Index. It trades on the Chicago Mercantile Exchange under the ticker symbol ES. The contract tracks the stock prices of the largest U.S. companies listed on the S&P 500 Index. Investors can use contracts as a way to hedge or speculate on the future of the S&P 500 Index. <br>
+
 Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
 Define SPY ETF <br>
 Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
