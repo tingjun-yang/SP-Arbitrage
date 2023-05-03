@@ -12,6 +12,12 @@ Intrigued by the launch of the micro e-mini contracts for major indices by the C
 
 # ***Definitions and Description:***
 
+Futures Contract:<br>
+Derivative financial contracts that obligate parties to buy or sell an asset at a predetermined future date and price.<br>
+
+Exchange Traded Fund (ETF):
+ETFs or "exchange-traded funds" are exactly as the name implies: funds that trade on exchanges, generally tracking a specific index. When you invest in an ETF, you get a bundle of assets you can buy and sell during market hours.<br>
+
 E-Mini (ES) S&P 500 Futures Contract: <br>
 The E-mini S&P 500 futures contract tracks the S&P 500 Index. It trades on the Chicago Mercantile Exchange (CME) under the ticker symbol ES. The contract tracks the stock prices of the largest U.S. companies listed on the S&P 500 Index. Investors can use contracts as a way to hedge or speculate on the future of the S&P 500 Index. The E-mini S&P 500 futures contract is $50 x the S&P 500 Index and has a minimum tick of .25 index points. This translates to $50 per single point change and $12.50 per tick.<br>
 
