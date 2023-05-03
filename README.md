@@ -10,7 +10,7 @@ How strong of a correlation will we find? Do different time periods matter? <br>
 Intrigued by the launch of the micro e-mini contracts for major indices by the CME on May 6, 2019, we chose to delve further into the market's adoption of the new indices.  Noting that the new contracts allow market participants to gain exposure to price fluctuations in the S&P 500, Russell, Dow Jones 30, and Nasdaq indices at minimal costs than the existing e-minis, we sought to demonstrate that the price movements across the three S&P500 futures indices were highly correlated such that an arbitrage opportunity did not exist during the burst of uncertainty.  At the core of our analysis, we focused on the possibility of arbitrage over four years that registered a few seismic events, including but not limited to a global pandemic (COVID), elections resulting from uncertainty in the US, Russia's evasion of Ukraine, and a global inflationary environment caused by global supply-chain disruptions and a reduction oil production capacity by OPEC during the early days in the Pandemic.<br>
 
 
-# ***Description:***
+# ***Definitions and Description:***
 
 E-Mini (ES) S&P 500 Futures Contract: <br>
 The E-mini S&P 500 futures contract tracks the S&P 500 Index. It trades on the Chicago Mercantile Exchange (CME) under the ticker symbol ES. The contract tracks the stock prices of the largest U.S. companies listed on the S&P 500 Index. Investors can use contracts as a way to hedge or speculate on the future of the S&P 500 Index. The E-mini S&P 500 futures contract is $50 x the S&P 500 Index and has a minimum tick of .25 index points. This translates to $50 per single point change and $12.50 per tick.<br>
