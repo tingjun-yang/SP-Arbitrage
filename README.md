@@ -22,14 +22,14 @@ They are designed to manage exposure to the 500 U.S. large-cap stocks tracked by
 SPY ETF: <br>
 The SPDR S&P 500 ETF Trust (SPY) is one of the most popular Exchange Traded Funds. It aims to track the Standard & Poor’s (S&P) 500 Index, which comprises 500 large-cap U.S. stocks. These stocks are selected by a committee based on market size, liquidity, and industry. The S&P 500 serves as one of the main benchmarks of the U.S. equity market and indicates the financial health and stability of the economy. Also known as the SPY ETF, the fund was established in January 1993. <br>
 
+WTI Futures Contract: <br>
+WTI stands for West Texas Intermediate (occasionally called Texas Light Sweet), an oil benchmark that is central to commodities trading. It is one of the three major oil benchmarks used in trading, the others being Brent crude and Dubai/Oman. The volatility of crude oil prices after the US oil price decontrol led to the development of the NYMEX WTI Light Sweet Crude Oil futures contract in 1983. The NYMEX Crude Oil contract trades under the symbol CL on the New York Mercantile Exchange, now part of Chicago Mercantile Exchange. The contract is for 1,000 US barrels, or 42,000 US gallons, of WTI crude oil, the minimum tick size of the contract is $0.01 per barrel ($10 for contract), and the contract price is quoted in US dollars. Monthly contracts are available for the current year, the following 10 calendar years, and 2 additional months. <br>
+
 Financial Metrics Analyzed: Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
 
 Date Range: May 2019 - May 2023 <br>
 
 Economic Events & News: GDP data, Employment, Fed Interest Rates  <br>
-
-WTI Futures Contract: <br>
-WTI stands for West Texas Intermediate (occasionally called Texas Light Sweet), an oil benchmark that is central to commodities trading. It is one of the three major oil benchmarks used in trading, the others being Brent crude and Dubai/Oman. The volatility of crude oil prices after the US oil price decontrol led to the development of the NYMEX WTI Light Sweet Crude Oil futures contract in 1983.[2] The NYMEX Crude Oil contract trades under the symbol CL on the New York Mercantile Exchange, now part of Chicago Mercantile Exchange.[2] The contract is for 1,000 US barrels, or 42,000 US gallons, of WTI crude oil, the minimum tick size of the contract is $0.01 per barrel ($10 for contract), and the contract price is quoted in US dollars.[5] Monthly contracts are available for the current year, the following 10 calendar years, and 2 additional months. <br>
 
 # ***Tools for Analysis:***
 Alpaca API data <br>
