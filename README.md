@@ -1,4 +1,4 @@
-# SP-Arbitrage
+# SP-Arbitrage - Is there an opportunity?
 
 # ***Project Topic/Title***
 
@@ -33,11 +33,12 @@ WTI stands for West Texas Intermediate (occasionally called Texas Light Sweet), 
 
 Financial Metrics Analyzed: Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
 
-Date Range: May 2019 - May 2023 <br>
+Date Range of all data sets: May 2019 - May 2023 <br>
 
-Economic Events & News: GDP data, Employment, Fed Interest Rates  <br>
+Economic Events & News: (TO BE FURTHER DEFINED) GDP data, Employment, Fed Interest Rates  <br>
 
 # ***Tools for Analysis:***
+
 Alpaca API data <br>
 Correlation Matrices <br>
 HVPlot: Visualize relative profiles <br>
