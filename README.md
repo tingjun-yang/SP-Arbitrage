@@ -2,7 +2,7 @@
 
 # ***Project Topic/Title***
 
-Evaluate the relative change of S&P 500 futures (front ES and MES contract) and SPY etf over a period of 4 years and market events <br>
+Evaluate the relative change of S&P 500 futures (front ES and MES contract) and SPY ETF over a period of 4 years. This will include significant market events. <br>
 How strong of a correlation will we find? Do different time periods matter? <br>
 
 # ***Introduction:***
@@ -25,8 +25,11 @@ SPY ETF: <br>
 The SPDR S&P 500 ETF Trust (SPY) is one of the most popular Exchange Traded Funds. It aims to track the Standard & Poor’s (S&P) 500 Index, which comprises 500 large-cap U.S. stocks. These stocks are selected by a committee based on market size, liquidity, and industry. The S&P 500 serves as one of the main benchmarks of the U.S. equity market and indicates the financial health and stability of the economy. Also known as the SPY ETF, the fund was established in January 1993. <br>
 
 Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
+
 Date Range: May 2019 - May 2023 <br>
-Economic News: GDP data, Employment, Fed,  <br>
+
+Economic Events & News: GDP data, Employment, Fed Interest Rates  <br>
+
 Include alternative index (WTI, GLD… other?) <br>
 
 # ***Tools for Analysis:***
