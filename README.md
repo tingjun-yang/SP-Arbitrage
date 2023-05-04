@@ -2,7 +2,7 @@
 
 # ***Project Topic/Title***
 
-Evaluate the relative change of S&P 500 futures (front ES and MES contract) and SPY ETF over a period of 4 years. This will include significant market events. <br>
+Evaluate the relative change of S&P 500 futures (front ES and MES contract) vs SPY ETF over a period of 4 years. This will include significant market events. <br>
 How strong of a correlation will we find? Do different time periods matter? <br>
 
 # ***Introduction:***
