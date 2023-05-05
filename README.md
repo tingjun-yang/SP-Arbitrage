@@ -1,4 +1,4 @@
-# SP-Arbitrage - Is there an opportunity?
+# S&P Index VS S&P Futures - Arbitrage - Is there an opportunity?
 
 # ***Project Topic/Title***
 
