@@ -26,6 +26,7 @@ The E-mini S&P 500 futures contract tracks the S&P 500 Index. It trades on the C
 Micro E-mini (MES) S&P 500 Futures Contract: <br>
 Micro E-mini S&P 500 futures (MES) offer smaller-sized versions of the Chicago Mercantile Exchange's (CME) liquid benchmark E-mini contracts.
 They are designed to manage exposure to the 500 U.S. large-cap stocks tracked by the S&P 500 Index, widely regarded as the best single gauge of the U.S. stock market. The Micro E-mini S&P 500 futures contract is $5 x the S&P 500 Index and has a minimum tick of 0.25 index points. This translates to $5 per single point change and $1.25 per tick.<br>
+![image](https://user-images.githubusercontent.com/57773931/236959791-95f6d357-db5d-41ca-a996-546ed695be13.png)
 
 SPY ETF: <br>
 The SPDR S&P 500 ETF Trust (SPY) is one of the most popular Exchange Traded Funds. It aims to track the Standard & Poor’s (S&P) 500 Index, which comprises 500 large-cap U.S. stocks. These stocks are selected by a committee based on market size, liquidity, and industry. The S&P 500 serves as one of the main benchmarks of the U.S. equity market and indicates the financial health and stability of the economy. Also known as the SPY ETF, the fund was established in January 1993. <br>
