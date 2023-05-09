@@ -78,6 +78,11 @@ HVPlot: Visualize relative profiles <br>
 Monte Carlo Simulation <br>
 Pandas: data cleaning/calculating returns <br>
 
+#***Data Sources***
+
+Alpacaenv to download SPY historical data
+Yahoo Finance to download E-mini and Micro E-mini historical data
+Energy Information Adminstration to download WTI (West Texas Intermediate) Crude Oil prices
 
 # ***Team Members***
 Susan Bengo  <br>
