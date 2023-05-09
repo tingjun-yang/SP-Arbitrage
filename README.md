@@ -43,17 +43,20 @@ Date Range of all data sets: May 2019 - May 2023 <br>
 # Coorelation between SPY and Futures:
 
 ## How well does the SPY EFT vs ES vs MES coorelate?
-It appears they all coorelate very well. Almost too well. Based on the results below, we have decided to remove the ES from further analysis due to it's near identical relationship with MES.<br>
+It appears they all coorelate very well. So well in fact, that it is nearly impossible to differenciate the lines in the chart below.<br>
 
 ![image](images/All_Products_Cumulative_Performance.png)
+
 The cumulative performance charts were extremely interesting as the volatility in equities paled in comparison to the WTI volatility. WTI crude oil prices even went negative in 2020 at the height of the supply glut and rebounded from there. <br>
 
 ![image](images/Correlation_Full_Time_Period.png)
+
 Over the course of the entire time period, WTI crude oil exhibited essentially no correlation with the SPY ETF nor the S&P futures contracts.<br>
 ![image](images/Correlation_Inflationary_Time_Period.png)
+
 ![image](images/beta.png)
+
 ![image](images/Sharpe_Ratios.png)
-Volume Analysis of ES and MES<br>
 
 However, during the “inflationary period,” defined as November 2022 through end of April 2023, we noticed the correlation between WTI crude oil and the S&P products increased substantially which is consistent with our understanding of the recent similar trending in stocks and oil. However, this is still a weak correlation. Interestingly, the beta of WTI crude oil relative to SPY was almost 1 for the full time period. This would indicate that WTI and S&P have similar systematic risk but a weak linear correlation for the time period. Given both assets are subject to similar systematic risk and upon reviewing the Sharpe Ratios, we would much rather invest in S&P products on a risk-adjusted basis.<br>
 
