@@ -1,6 +1,6 @@
 # S&P Index VS S&P Futures - Is there an arbitrage opportunity?
 
-Our goal is to evaluate the relative price changes of S&P 500 futures (front ES and MES contract) vs SPY ETF over a period of 4 years to determine if there is any opportunity for arbitrage. Additionally, we will analyze WTI (Ticker: CL) with the same financial analysis tools. <br>
+Our goal is to evaluate the relative price changes of S&P 500 futures (front ES and MES contract) vs SPY ETF over a period of 4 years to determine if there is any opportunity for arbitrage. Additionally, we will analyze WTI with the same financial analysis tools. <br>
 <br>
 How strong of a correlation will we find? Do different time periods matter? <br>
 
