@@ -40,14 +40,18 @@ Financial Metrics Analyzed: Monte Carlo, relative price/correlation, annual retu
 
 Date Range of all data sets: May 2019 - May 2023 <br>
 
-? Economic Events & News: (TO BE FURTHER DEFINED) GDP data, Employment, Fed Interest Rates  <br>
-
 # Coorelation between SPY and Futures:
 
 ## How well does the SPY EFT vs ES vs MES coorelate?
 It appears they all coorelate very well. Almost too well. Based on the results below, we have decided to remove the ES from further analysis due to it's near identical relationship with MES.<br>
 
 INSERT CHART HERE<br>
+
+Volume Analysis of ES and MES<br>
+
+Insert Chart Here<br>
+
+MES & WTI Coorelation<br>
 
 # ***Tools used for Data Analysis:***
 
