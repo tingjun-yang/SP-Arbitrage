@@ -70,7 +70,7 @@ However, MES has grown the most in terms of cumulative percentage change in noti
 
 ![image](images/cumulative_percentage_chg_volumes.png)
 
-We perform MC simulation for the 4 stocks using [MCForecastTools.py](./MCForecastTools.py). The following plot shows the expected returns for a $10k initial investment after 5 years. 
+We perform MC simulation for the 4 stocks using [MCForecastTools.py](./MCForecastTools.py). The following plot shows the expected 95% CL returns for a $10k initial investment after 5 years. 
 ![](./images/returns.png).
 
 The returns are essentially the same for SPY, ES and MES as expected. The return is close to 0 for WTI. 
