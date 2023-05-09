@@ -1,6 +1,7 @@
-# S&P Index VS S&P Futures - Arbitrage - Is there an opportunity?
+# S&P Index VS S&P Futures - Is there an arbitrage opportunity?
 
-Evaluate the relative change of S&P 500 futures (front ES and MES contract) vs SPY ETF over a period of 4 years. This will include significant market events. <br>
+Our goal is to evaluate the relative price changes of S&P 500 futures (front ES and MES contract) vs SPY ETF over a period of 4 years to determine if there is any opportunity for arbitrage. Additionally, we will analyze WTI (Ticker: CL) with the same financial analysis tools. <br>
+<br>
 How strong of a correlation will we find? Do different time periods matter? <br>
 
 # Introduction:
@@ -39,7 +40,7 @@ Financial Metrics Analyzed: Monte Carlo, relative price/correlation, annual retu
 
 Date Range of all data sets: May 2019 - May 2023 <br>
 
-Economic Events & News: (TO BE FURTHER DEFINED) GDP data, Employment, Fed Interest Rates  <br>
+? Economic Events & News: (TO BE FURTHER DEFINED) GDP data, Employment, Fed Interest Rates  <br>
 
 # Coorelation between SPY and Futures:
 
@@ -50,7 +51,7 @@ INSERT CHART HERE<br>
 
 # ***Tools used for Data Analysis:***
 
-Alpaca API data <br>
+Alpaca API data for SPY price history.<br>
 Correlation Matrices <br>
 HVPlot: Visualize relative profiles <br>
 Monte Carlo Simulation <br>
