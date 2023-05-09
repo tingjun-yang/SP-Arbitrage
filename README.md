@@ -44,11 +44,11 @@ Date Range of all data sets: May 2019 - May 2023 <br>
 
 ## How well does the SPY EFT vs ES vs MES coorelate?
 It appears they all coorelate very well. So well in fact, that it is nearly impossible to differenciate the lines in the chart below.<br>
-
+## 4 Year Correlation Matrix<br>
 ![image](images/All_Products_Cumulative_Performance.png)
 
 The cumulative performance charts were extremely interesting as the volatility in equities paled in comparison to the WTI volatility. WTI crude oil prices even went negative in 2020 at the height of the supply glut and rebounded from there. <br>
-
+## Inflation Period Correlation Matrix<br>
 ![image](images/Correlation_Full_Time_Period.png)
 
 Over the course of the entire time period, WTI crude oil exhibited essentially no correlation with the SPY ETF nor the S&P futures contracts.<br>
