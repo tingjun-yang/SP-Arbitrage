@@ -64,7 +64,7 @@ Given we are more interested in S&P products, we decided to check out trends in 
 
 ![image](images/Notional_Volumes_Traded.png)
 
-However, MES has grown the most in terms of cumulative percentage of notional volume.<br>
+However, MES has grown the most in terms of cumulative percentage change in notional volume.<br>
 
 ![image](images/cumulative_percentage_chg_volumes.png)
 
