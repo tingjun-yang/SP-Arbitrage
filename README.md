@@ -72,17 +72,17 @@ However, MES has grown the most in terms of cumulative percentage change in noti
 
 # ***Tools used for Data Analysis:***
 
-Alpaca API data for SPY price history.<br>
-Correlation Matrices <br>
-HVPlot: Visualize relative profiles <br>
-Monte Carlo Simulation <br>
-Pandas: data cleaning/calculating returns <br>
+* Alpaca API data for SPY price history.
+* Correlation Matrices 
+* HVPlot: Visualize relative profiles 
+* Monte Carlo Simulation 
+* Pandas: data cleaning/calculating returns 
 
-#***Data Sources***
+# ***Data Sources***
 
-Alpacaenv to download SPY historical data
-Yahoo Finance to download E-mini and Micro E-mini historical data
-Energy Information Adminstration to download WTI (West Texas Intermediate) Crude Oil prices
+* Alpacaenv to download SPY historical data
+* Yahoo Finance to download E-mini and Micro E-mini historical data
+* Energy Information Adminstration to download WTI (West Texas Intermediate) Crude Oil prices
 
 # ***Team Members***
 Susan Bengo  <br>
