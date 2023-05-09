@@ -45,13 +45,25 @@ Date Range of all data sets: May 2019 - May 2023 <br>
 ## How well does the SPY EFT vs ES vs MES coorelate?
 It appears they all coorelate very well. Almost too well. Based on the results below, we have decided to remove the ES from further analysis due to it's near identical relationship with MES.<br>
 
-INSERT CHART HERE<br>
+![image](images/All_Product_Cummulative_Performance.png)
+The cumulative performance charts were extremely interesting as the volatility in equities paled in comparison to the WTI volatility. WTI crude oil prices even went negative in 2020 at the height of the supply glut and rebounded from there. <br>
 
+![image](images/Correlation_Full_Time_Period.png)
+Over the course of the entire time period, WTI crude oil exhibited essentially no correlation with the SPY ETF nor the S&P futures contracts.<br>
+![image](images/Inflationary_Time_Period.png)
+![image](images/beta.png)
+![image](images/Sharpe_Ratios.png)
 Volume Analysis of ES and MES<br>
 
-Insert Chart Here<br>
+However, during the “inflationary period,” defined as November 2022 through end of April 2023, we noticed the correlation between WTI crude oil and the S&P products increased substantially which is consistent with our understanding of the recent similar trending in stocks and oil. However, this is still a weak correlation. Interestingly, the beta of WTI crude oil relative to SPY was almost 1 for the full time period. This would indicate that WTI and S&P have similar systematic risk but a weak linear correlation for the time period. Given both assets are subject to similar systematic risk and upon reviewing the Sharpe Ratios, we would much rather invest in S&P products on a risk-adjusted basis.<br>
 
-MES & WTI Coorelation<br>
+Given we are more interested in S&P products, we decided to check out trends in their notional volumes (dollars traded). Unsurprisingly, the e-mini S&P futures contract (ES) volumes outpaced that of the ETF (SPY) and the micro e-mini contract (MES). This made sense to us given ES is primarily used by larger institutional traders to gain/reduce exposure.<br>
+
+![image](images/Notional_Volumes_Traded.png)
+
+However, MES has grown the most in terms of cumulative percentage of notional volume.<br>
+
+![image](images/cumulative_percentage_chg_volumes.png)
 
 # ***Tools used for Data Analysis:***
 
