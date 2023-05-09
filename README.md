@@ -14,10 +14,10 @@ We have excluded analysis on the rollover effect of the futures contracts to the
 
 # ***Definitions and Description:***
 
-Futures Contract:<br>
+#Futures Contract:<br>
 Derivative financial contracts that obligate parties to buy or sell an asset at a predetermined future date and price.<br>
 
-Exchange Traded Fund (ETF):
+#Exchange Traded Fund (ETF):
 ETFs or "exchange-traded funds" are exactly as the name implies: funds that trade on exchanges, generally tracking a specific index. When you invest in an ETF, you get a bundle of assets you can buy and sell during market hours.<br>
 
 E-Mini (ES) S&P 500 Futures Contract: <br>
