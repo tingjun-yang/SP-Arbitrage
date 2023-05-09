@@ -34,6 +34,7 @@ The SPDR S&P 500 ETF Trust (SPY) is one of the most popular Exchange Traded Fund
 
 WTI Futures Contract: <br>
 WTI stands for West Texas Intermediate (occasionally called Texas Light Sweet), an oil benchmark that is central to commodities trading. It is one of the three major oil benchmarks used in trading, the others being Brent crude and Dubai/Oman. The volatility of crude oil prices after the US oil price decontrol led to the development of the NYMEX WTI Light Sweet Crude Oil futures contract in 1983. The NYMEX Crude Oil contract trades under the symbol CL on the New York Mercantile Exchange, now part of Chicago Mercantile Exchange. The contract is for 1,000 US barrels, or 42,000 US gallons, of WTI crude oil, the minimum tick size of the contract is $0.01 per barrel ($10 for contract), and the contract price is quoted in US dollars. Monthly contracts are available for the current year, the following 10 calendar years, and 2 additional months. <br>
+![image](images/WTI.png)
 
 Financial Metrics Analyzed: Monte Carlo, relative price/correlation, annual return, sharpe ratio, other financial metrics <br>
 
