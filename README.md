@@ -91,6 +91,10 @@ The returns are essentially the same for SPY, ES and MES as expected. The return
 * Yahoo Finance to download E-mini and Micro E-mini historical data
 * Energy Information Adminstration to download WTI (West Texas Intermediate) Crude Oil prices
 
+# ***Presentation***
+
+[Presentation](https://docs.google.com/presentation/d/1bz8jx4omebZrJj4sUPPEsDsIIzEs5WVP_iDobCj-xEo/edit?usp=sharing)
+
 # ***Team Members***
 Susan Bengo  <br>
 Michael Cody <br>
